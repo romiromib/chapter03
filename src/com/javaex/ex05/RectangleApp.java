@@ -16,6 +16,7 @@ public class RectangleApp {
 		System.out.println(a.equals(d));
 		System.out.println(a.equals(e));
 		System.out.println(d.equals(e));
+		
 
 	}
 

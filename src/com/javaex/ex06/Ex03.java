@@ -12,7 +12,7 @@ public class Ex03 {
 		Integer sum = new Integer(3) + new Integer(3);
 		System.out.println(sum.toString());
 		
-		Integer v01 = 3; //자동박싱
+		Integer v01 = 3; //자동박싱-> new Integer (3)
 		System.out.println(v01.toString());
 		
 		int v02 = i;

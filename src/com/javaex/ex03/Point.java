@@ -41,7 +41,7 @@ public class Point {
 		if(this.x == p.x && this.y==p.y) {
 			result = true;
 		}
-		else {
+		else { 
 			result = false;
 		}
 		

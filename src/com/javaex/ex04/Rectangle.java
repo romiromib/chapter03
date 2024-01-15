@@ -11,7 +11,7 @@ public class Rectangle {
 		this.width = width;
 		this.height = height;
 	}
-
+	
 
 	//재졍의
 	@Override
