@@ -25,8 +25,8 @@ public class Ex01 {
 		System.out.println(obj);//클래스 정보
 		
 		//hashCode()
-		System.out.println(obj.hashCode());
-		System.out.println(obj1.hashCode());
+		System.out.println(obj.hashCode());//무작위 주소
+		System.out.println(obj1.hashCode());//무작위 주소
 		
 		//equals()->주소가 같은지 묻는것(내용이 같은지가 아님)
 		System.out.println(obj.equals(obj));
